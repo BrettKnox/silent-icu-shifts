@@ -1,0 +1,5 @@
+step,n,excluded,reason
+All MIMIC-IV ICU stays,94458,0,
+Adult (age >= 18),94458,0,pediatric
+ICU LOS >= 48 h,46337,48121,stay < 48 h
+FINAL COHORT,46337,0,(no-cs-documented treated as implicit Full Code)
