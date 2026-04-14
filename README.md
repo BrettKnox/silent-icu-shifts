@@ -265,7 +265,7 @@ flowchart LR
     style E fill:#0d1b2a,color:#a8ff78,stroke:#2ecc71
 ```
 
-Scripts execute sequentially from `01_cohort_definition` through `07_characterize_candidates`. All code and intermediate data live at `/Users/ahramhan/Documents/mayo_26/studies/silent`.
+Scripts execute sequentially from `01_cohort_definition` through `07_characterize_candidates`. present in the pallative/code folder
 
 ---
 
