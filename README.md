@@ -334,6 +334,7 @@ A qualitative chart review of a random sample from the 1,217 silent candidates w
 |:---|:---|
 | **Marta E. Berguido** | [BerguidodelaGuardia.Marta@mayo.edu](mailto:BerguidodelaGuardia.Marta@mayo.edu) |
 | **Elizabeth Carey** | [elizabeth.carey@unf.edu](mailto:elizabeth.carey@unf.edu) |
+| **Ross Reichard** | [Reichard.Robert@mayo.edu](mailto:Reichard.Robert@mayo.edu) |
 
 </div>
 
@@ -349,7 +350,7 @@ If you use this work, please cite the MIMIC-IV datathon analysis and reference t
   author  = {Han, Ahram and Knox, Brett and Cheong, Yu Yin and Joshi, Krishna K.
              and Kotagiri, Ashritha and McCormack, Simon
              and Berguido, Marta E. and Carey, Elizabeth
-             and Kahoud, Robert J.},
+             and Kahoud, Robert J. and Reichard, Ross}
   year    = {2026},
   note    = {MIMIC-IV Datathon Analysis},
   url     = {https://github.com/KrishnaKJoshi1}
