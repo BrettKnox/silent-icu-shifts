@@ -324,7 +324,7 @@ A qualitative chart review of a random sample from the 1,217 silent candidates w
 |:---|:---|
 | **Brett Knox** | [brettknox2003@gmail.com](mailto:brettknox2003@gmail.com) · [BrettKnox](https://github.com/BrettKnox/) |
 | **Yu Yin Cheong** | [yy.yuyincheong@gmail.com](mailto:yy.yuyincheong@gmail.com) · [YuYinCheong](https://github.com/YuYinCheong) |
-| **Krishna K. Joshi** | [KrishnaKJoshi1](krishnakjoshi1@gmail.cpm) . [KrishnaKJoshi1](https://github.com/KrishnaKJoshi1)  
+| **Krishna K. Joshi** | [krishnakjoshi1@gmail.com](krishnakjoshi1@gmail.cpm) . [KrishnaKJoshi1](https://github.com/KrishnaKJoshi1)  
 | **Ashritha Kotagiri** | [ashritharao421@gmail.com](mailto:ashritharao421@gmail.com) · [Ashritha456](https://github.com/Ashritha456) |
 | **Simon McCormack** | [@simonmccormack](https://github.com/simonmccormack) |
 
